@@ -1,0 +1,35 @@
+:root{
+    --nord0: #2E3440;}
+
+
+
+
+
+body{    
+    font-family: var(--font);
+    color: palevioletred;
+}
+header, section{
+    width: 960px;
+    margin: 0 auto ;
+    
+
+}
+
+header{
+    display: flex;
+  
+}
+section{
+    display: flex;
+}
+article {
+    width: 60%;
+
+}
+
+img{
+    width: 200px;
+    height: 200px;
+    margin-right: 16px ;
+}
