@@ -16,6 +16,12 @@ header, section{
     display:flex ;
  
 }
+header, section{
+    background-color: indianred;
+    color: black;
+    padding-top: 16px;
+    padding-left: 16px;
+}
 
 article {
     width: 60%;
@@ -29,7 +35,7 @@ img{
 }
 a, a:link, a:visited {
     text-decoration: none;
-    color: blue;
+    color: black
     font-weight: bold;
 
 }
