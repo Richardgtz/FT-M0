@@ -1,15 +1,14 @@
 :root{
-    --nord0: #2E3440;}
+    --nord0: #2E3440;
 
 
-
-
-
+}
 body{    
    font-style: var();
-   color: tomato;
+   color: black
     
 }
+
 header, section{
     width: 960px;
     margin: 0 auto ;
@@ -17,7 +16,7 @@ header, section{
  
 }
 header, section{
-    background-color: indianred;
+    background-color: burlywood;
     color: black;
     padding-top: 16px;
     padding-left: 16px;
@@ -33,10 +32,9 @@ img{
     height: 200px;
     margin-right: 16px ;
 }
-a, a:link, a:visited {
-    text-decoration: none;
-    color: black
-    font-weight: bold;
-
+a,a:link, a:visited {
+    text-decoration:none;
+    color: dodgerblue;
+   
 }
-    
+
